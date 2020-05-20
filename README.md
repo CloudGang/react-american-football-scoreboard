@@ -16,10 +16,10 @@ In this project, you build an app that displays a scoreboard for an American foo
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
+- [x] Create a forked copy of this project.
 - [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd american-football-scoreboard`
+- [x] Clone your OWN version of the repository in your terminal
+- [x] CD into the project base directory `cd american-football-scoreboard`
 - [ ] Download project dependencies by running `npm install`
 - [ ] Start up the app using `npm start`
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
